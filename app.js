@@ -1,6 +1,6 @@
 //Movement Animation to happen
-const card = document.querySelector(".card");
-const container = document.querySelector(".container");
+const card = document.querySelector(".card1");
+const container = document.querySelector(".container1");
 const title = document.querySelector(".title");
 const logo = document.querySelector(".logo img");
 const button = document.querySelector(".button");
